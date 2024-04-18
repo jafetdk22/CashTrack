@@ -1,0 +1,19 @@
+{
+    "name": "#CashTack",
+    "short_name": "#CashTack",
+    "description": "Finanzas controladas",
+    "background_color": "#2B2B2B",
+    "theme_color": "#F0DB4F",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "./images/logo/logo.jpeg",
+        "sizes": "426x392",
+        "type": "image/jpeg"
+      }
+    ]
+  }
